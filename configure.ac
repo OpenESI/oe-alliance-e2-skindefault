@@ -11,6 +11,7 @@ AC_OUTPUT([
 Makefile
 fonts/Makefile
 skin_default/Makefile
+skin_default/LCDIcons/Makefile
 skin_default/buttons/Makefile
 skin_default/countries/Makefile
 skin_default/epg/Makefile
@@ -21,4 +22,5 @@ skin_default/menu/Makefile
 skin_default/piconbg/Makefile
 skin_default/screens/Makefile
 skin_default/skin_default/Makefile
+skin_default/sysinfo/Makefile
 ])

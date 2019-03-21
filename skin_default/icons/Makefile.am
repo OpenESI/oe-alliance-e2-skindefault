@@ -15,7 +15,6 @@ dist_install_DATA =     ask.png \
     epgclock_post.png \
     epgclock_pre.png \
     epgclock_prepost.png \
-    epgclock_primetime.png \
     epgclock_selpost.png \
     epgclock_selpre.png \
     epgclock_selprepost.png \
@@ -32,6 +31,8 @@ dist_install_DATA =     ask.png \
     forward.png \
     fza.png \
     HDMI.png \
+    ico_3d.png \
+    ico_4k-uhd.png \
     ico_dvb-c.png \
     ico_dvb-s.png \
     ico_dvb-t.png \
@@ -47,6 +48,7 @@ dist_install_DATA =     ask.png \
     ico_noreplay.png \
     ico_player.png \
     ico_replay.png \
+    ico_sd.png \
     ico_service_group.png \
     ico_sub_off.png \
     ico_sub_on.png \
@@ -58,6 +60,7 @@ dist_install_DATA =     ask.png \
     icon_event.png \
     icon_format_off.png \
     icon_format.png \
+    ico_hd.png \
     icon_hd_off.png \
     icon_hd_on.png \
     icon_rec_off.png \
@@ -71,6 +74,7 @@ dist_install_DATA =     ask.png \
     icon_update_off.png \
     input_error.png \
     input_info.png \
+    ico_iptv.png \
     input_keyboard-configured.png \
     input_keyboard.png \
     input_mouse-configured.png \
@@ -80,6 +84,11 @@ dist_install_DATA =     ask.png \
     input_rcnew.png \
     input_rcold-configured.png \
     input_rcold.png \
+    ipkgcam.png \
+    ipkgextensions.png \
+    ipkgpdrivers.png \
+    ipkgskins.png \
+    ipkgsystemplugins.png \
     lcd_DVI.png \
     lcd_HDMI.png \
     lcd_Scart.png \
@@ -91,6 +100,10 @@ dist_install_DATA =     ask.png \
     lockBouquet.png \
     loop.png \
     marker.png \
+    menu_off_HD.png \
+    menu_on_HD.png \
+    menu_off.png \
+    menu_on.png \
     movie_play_rec.png \
     movie_play.png \
     movielist.png \
@@ -129,6 +142,21 @@ dist_install_DATA =     ask.png \
     record.png \
     redx.png \
     rep.png \
+    repepgclock_add.png \
+    repepgclock.png \
+    repepgclock_post.png \
+    repepgclock_pre.png \
+    repepgclock_prepost.png \
+    repzapclock.png \
+    repzapclock_add.png \
+    repzapclock_post.png \
+    repzapclock_pre.png \
+    repzapclock_prepost.png \
+    repzaprecclock.png \
+    repzaprecclock_add.png \
+    repzaprecclock_post.png \
+    repzaprecclock_pre.png \
+    repzaprecclock_prepost.png \
     scan-c.png \
     scan-s.png \
     scan-t.png \
@@ -156,4 +184,14 @@ dist_install_DATA =     ask.png \
     verticalline.png \
     verticalline-plugins.png \
     YPbPr.png \
-    za.png
+    za.png \
+    zapclock.png \
+    zapclock_add.png \
+    zapclock_post.png \
+    zapclock_pre.png \
+    zapclock_prepost.png \
+    zaprecclock.png \
+    zaprecclock_add.png \
+    zaprecclock_post.png \
+    zaprecclock_pre.png \
+    zaprecclock_prepost.png
